@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/choppanitheesh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/choppanitheesh/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/choppanitheesh/Leetcode/tree/master/0861-flipping-an-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/choppanitheesh/Leetcode/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
