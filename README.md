@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/choppanitheesh/Leetcode/tree/master/0050-powx-n) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/choppanitheesh/Leetcode/tree/master/3639-zero-array-transformation-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/choppanitheesh/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
