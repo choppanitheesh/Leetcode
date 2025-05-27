@@ -41,6 +41,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/choppanitheesh/Leetcode/tree/master/0050-powx-n) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/choppanitheesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
