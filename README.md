@@ -46,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/choppanitheesh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/choppanitheesh/Leetcode/tree/master/0075-sort-colors) |
 | [0861-flipping-an-image](https://github.com/choppanitheesh/Leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/choppanitheesh/Leetcode/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/choppanitheesh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
