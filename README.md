@@ -49,12 +49,14 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/choppanitheesh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/choppanitheesh/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/choppanitheesh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/choppanitheesh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/choppanitheesh/Leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/choppanitheesh/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -76,6 +78,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/choppanitheesh/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/choppanitheesh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/choppanitheesh/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/choppanitheesh/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/choppanitheesh/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -88,4 +91,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/choppanitheesh/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
