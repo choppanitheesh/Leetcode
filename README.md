@@ -99,4 +99,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/choppanitheesh/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/choppanitheesh/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
