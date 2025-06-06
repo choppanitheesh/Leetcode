@@ -87,10 +87,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/choppanitheesh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/choppanitheesh/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,8 +105,13 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppanitheesh/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Union Find
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppanitheesh/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Greedy
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
