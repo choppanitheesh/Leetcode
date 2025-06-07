@@ -104,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppanitheesh/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Union Find
@@ -113,5 +114,10 @@
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
