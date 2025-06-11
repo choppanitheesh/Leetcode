@@ -12,6 +12,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/choppanitheesh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/choppanitheesh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/choppanitheesh/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
@@ -32,6 +33,7 @@
 | [0861-flipping-an-image](https://github.com/choppanitheesh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/choppanitheesh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/choppanitheesh/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/choppanitheesh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Divide and Conquer
 |  |
@@ -120,4 +123,5 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/choppanitheesh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
