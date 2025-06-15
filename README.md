@@ -44,6 +44,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/choppanitheesh/Leetcode/tree/master/0050-powx-n) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/choppanitheesh/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/choppanitheesh/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/choppanitheesh/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Queue
 |  |
