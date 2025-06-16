@@ -13,6 +13,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/choppanitheesh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/choppanitheesh/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/choppanitheesh/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/choppanitheesh/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/choppanitheesh/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
