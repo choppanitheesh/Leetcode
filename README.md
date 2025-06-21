@@ -65,6 +65,7 @@
 | [0075-sort-colors](https://github.com/choppanitheesh/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/choppanitheesh/Leetcode/tree/master/0148-sort-list) |
 | [3321-type-of-triangle](https://github.com/choppanitheesh/Leetcode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/choppanitheesh/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/choppanitheesh/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Union Find
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0649-dota2-senate](https://github.com/choppanitheesh/Leetcode/tree/master/0649-dota2-senate) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/choppanitheesh/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Queue
 |  |
 | ------- |
@@ -173,4 +177,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/choppanitheesh/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/choppanitheesh/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/choppanitheesh/Leetcode/tree/master/0226-invert-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 <!---LeetCode Topics End-->
