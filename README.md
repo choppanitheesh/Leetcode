@@ -10,6 +10,7 @@
 | [0777-toeplitz-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/choppanitheesh/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/0898-transpose-matrix) |
+| [1249-snapshot-array](https://github.com/choppanitheesh/Leetcode/tree/master/1249-snapshot-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/choppanitheesh/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/choppanitheesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1249-snapshot-array](https://github.com/choppanitheesh/Leetcode/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/choppanitheesh/Leetcode/tree/master/0141-linked-list-cycle) |
+| [1249-snapshot-array](https://github.com/choppanitheesh/Leetcode/tree/master/1249-snapshot-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/choppanitheesh/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
@@ -181,4 +184,8 @@
 |  |
 | ------- |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/choppanitheesh/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Design
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/choppanitheesh/Leetcode/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
