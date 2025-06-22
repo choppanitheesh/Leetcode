@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/choppanitheesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/choppanitheesh/Leetcode/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/choppanitheesh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/choppanitheesh/Leetcode/tree/master/0861-flipping-an-image) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/choppanitheesh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/choppanitheesh/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/choppanitheesh/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1249-snapshot-array](https://github.com/choppanitheesh/Leetcode/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/choppanitheesh/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
